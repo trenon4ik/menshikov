@@ -1,0 +1,4 @@
+b=input()
+q=int(b.split( )[0])
+s=int(b.split( )[1])
+print(qs)
